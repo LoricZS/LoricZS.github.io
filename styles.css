@@ -3,17 +3,24 @@
   padding:0px;
 }
 
-#Batman {
+#batman {
   display: block;
   width:500px;
   height:341px;
   margin:50px auto;
 }
 
+#batmanIII {
+  display: block;
+  width: 590px;
+  height: 500px;
+  margin: 50px auto;
+}
+
 p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 11px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 
 }
